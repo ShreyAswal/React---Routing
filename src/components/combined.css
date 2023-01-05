@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+.navBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin:0.5em 2em;
+}
+
+.subBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+h2{
+    margin: 1em;
+    text-decoration: none;
+}
+
+.same{
+    text-decoration: none;
+}
